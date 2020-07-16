@@ -1,7 +1,7 @@
 import os
 import time
-import json
 from pip._vendor import requests
+#import PyInstaller
 #使用demjson解析json文件
 import demjson
 download_urls=[]
